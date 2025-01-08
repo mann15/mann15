@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 💬 Ask me about **react**
-- My website: https://myportfolio-smoky-nu.vercel.app/
+- My Portfolio: https://myportfolio-smoky-nu.vercel.app/
 
 - 📫 How to reach me **manchopda1508@gmail.com**
 
